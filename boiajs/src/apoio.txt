@@ -1,0 +1,15 @@
+Nosso módulos 
+
+
+express  framework 
+body-parser is an HTTP message body parser
+react - lib para construir as interfaces
+react-dom - lib react para renderizar DOM
+react-router - lib de roteamento para app baseados em react 
+react-tap-event-plugin - plugin de correção de tap delay para touch
+validator - lib usada para validar  is a library we will use for a user input validation
+material-ui - is a set of React components that follows Google's Material Design guidelines
+webpack - module bundler para construir o app
+babel-core, babel-loader, and babel-preset-es2015 are parts of Babel, that is useful for transforming a modern ES2015 code to a cross-browser solution
+babel-preset-react is a Babel preset for all React plugins
+nodemon is a wrapper for Node that monitor changes in an application code and automatically restart the server
